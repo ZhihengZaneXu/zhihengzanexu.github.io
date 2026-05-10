@@ -7,35 +7,35 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/al-folio/";
+      window.location.href = "/";
     },
   },{id: "nav-news",
           title: "news",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/news/";
+            window.location.href = "/news/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Course materials, schedules, and resources for classes taught.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -66,28 +66,28 @@ ninja.data = [{
           title: 'IS/CS 485 — Usable Security &amp;amp; Privacy',
           description: "Teaching Assistant for an undergraduate course on usable security and privacy, covering lessons from human-centered security research and how to apply them.",
           section: "Teachings",handler: () => {
-              window.location.href = "/al-folio/teachings/CS485-2024-Fall/";
+              window.location.href = "/teachings/CS485-2024-Fall/";
             },},{id: "teachings-is-350-computer-society-amp-ethics",
           title: 'IS 350 — Computer, Society &amp;amp; Ethics',
           description: "Teaching Assistant for an upper-level online course examining the ethical implications of computers and information systems, including privacy, professionalism, algorithmic bias, and digital intellectual property.",
           section: "Teachings",handler: () => {
-              window.location.href = "/al-folio/teachings/IS350-2025-Fall/";
+              window.location.href = "/teachings/IS350-2025-Fall/";
             },},{id: "teachings-is-350-computer-society-amp-ethics",
           title: 'IS 350 — Computer, Society &amp;amp; Ethics',
           description: "Teaching Assistant for an upper-level course examining the ethical implications of computing in society, including privacy, professionalism, algorithmic bias, and digital intellectual property.",
           section: "Teachings",handler: () => {
-              window.location.href = "/al-folio/teachings/IS350-2025-Spring/";
+              window.location.href = "/teachings/IS350-2025-Spring/";
             },},{id: "teachings-is-350-computer-society-amp-ethics",
           title: 'IS 350 — Computer, Society &amp;amp; Ethics',
           description: "Teaching Assistant for an upper-level online course examining the ethical implications of computers and information systems, including privacy, professionalism, algorithmic bias, and digital intellectual property.",
           section: "Teachings",handler: () => {
-              window.location.href = "/al-folio/teachings/IS350-2026-Spring/";
+              window.location.href = "/teachings/IS350-2026-Spring/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/al-folio/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/example_pdf.pdf", "_blank");
         },
       },{
         id: 'social-email',

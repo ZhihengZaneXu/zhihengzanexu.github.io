@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zanexu.info/al-folio/sitemap.xml
+Sitemap: https://zanexu.info/sitemap.xml
