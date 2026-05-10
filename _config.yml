@@ -19,7 +19,7 @@ keywords: usable security, privacy, human-computer interaction, HCI, NJIT, Zane 
 lang: en
 icon: ☺️
 
-url: https://YOUR-GITHUB-USERNAME.github.io  # ← UPDATE THIS
+url: "https://zanexu.info"
 
 baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
