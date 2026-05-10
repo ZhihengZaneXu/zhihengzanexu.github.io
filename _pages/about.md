@@ -15,7 +15,7 @@ selected_papers: true   # shows papers marked selected={true} in papers.bib
 social: true            # shows social icons (email, GitHub, Scholar, etc.) — these come from _config.yml
 
 announcements:
-  enabled: false        # turn on once you have news items in _news/
+  enabled: true        # turn on once you have news items in _news/
   scrollable: true
   limit: 5
 
