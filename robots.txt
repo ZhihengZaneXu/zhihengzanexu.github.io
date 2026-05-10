@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zanexu.info/al-folio/sitemap.xml
