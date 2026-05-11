@@ -66,6 +66,7 @@ schedule:
     topic: Conclusion & Synthesis
     description: Trust, security, and privacy synthesis.
 ---
+
 ## My Role
 
 I served as the **Teaching Assistant** for this course in Spring 2025, working with [Dr. Julie Ancis](https://people.njit.edu/profile/jra49). My responsibilities included holding weekly office hours, instructing two class sections, and grading assignments.
@@ -76,7 +77,7 @@ This upper-level course examines the ethical implications of computers and infor
 
 ## Textbook
 
-Michael J. Quinn, *Ethics for the Information Age*, 9th edition (2024).
+Michael J. Quinn, _Ethics for the Information Age_, 9th edition (2024).
 
 ## Course Components
 

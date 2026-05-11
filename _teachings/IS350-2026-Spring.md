@@ -81,7 +81,7 @@ This upper-level online course examines the ethical implications of computers an
 
 ## Textbook
 
-Michael J. Quinn, *Ethics for the Information Age*, 9th edition (2024).
+Michael J. Quinn, _Ethics for the Information Age_, 9th edition (2024).
 
 ## Course Components
 
