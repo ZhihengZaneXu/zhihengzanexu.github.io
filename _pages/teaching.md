@@ -11,5 +11,3 @@ calendar: true
 This page displays a collection of courses served as a TA or instructor.
 
 {% include courses.liquid %}
-
-
