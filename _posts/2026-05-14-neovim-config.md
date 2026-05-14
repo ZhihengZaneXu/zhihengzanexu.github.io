@@ -33,8 +33,8 @@ A few plugins do most of the visual work:
 - [`noice`](https://github.com/folke/noice.nvim) reroutes the cmdline, messages, and LSP popups into floating windows, so the bottom of the screen stays clean.
 - [`barbar`](https://github.com/romgrk/barbar.nvim) for the buffer tabs across the top.
 
-
 Also few others useful plugins:
+
 - [`gitsigns`](https://github.com/lewis6991/gitsigns.nvim) for inline diff markers and hunk staging
 - [`trouble`](https://github.com/folke/trouble.nvim) for a clean diagnostics panel
 - [`aerial`](https://github.com/stevearc/aerial.nvim) for a symbol outline on the right

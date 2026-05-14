@@ -3,6 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 #cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: zx4@njit.edu # your email address
+github_username: ZhihengZaneXu
 linkedin_username: zane-xu-842365223 # just the handle, not full URL
 #inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: true # comment this line to hide the RSS icon

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Department of Informatics, NJIT
+subtitle: PhD Candidate, Department of Informatics, NJIT
 
 # Profile section disabled — no image, no address shown
 profile:
