@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Student volunteer for citation check on two accepted papers in [SOUPS 2026] (https://soups.page/).
+Student volunteer for citation check on two accepted papers in [SOUPS 2026](https://soups.page/).
