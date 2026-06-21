@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-neovim-configuration",
+        },{id: "post-zotero-for-handling-bibliography",
+        
+          title: "Zotero for handling bibliography",
+        
+        description: "a short note on my Zotero configuration.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/zotero/";
+          
+        },
+      },{id: "post-neovim-configuration",
         
           title: "Neovim configuration",
         
