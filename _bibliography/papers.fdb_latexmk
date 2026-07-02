@@ -1,12 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1778385386 "/home/zane/Documents/Website/al-folio/_bibliography/papers.bib" "papers.pdf" "papers" 1778385386
+["pdflatex"] 1783003430 "/home/zane/Documents/Website/al-folio/_bibliography/papers.bib" "papers.pdf" "papers" 1783003430
   "/etc/texmf/web2c/texmf.cnf" 1738005251 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/zane/Documents/Website/al-folio/_bibliography/papers.bib" 1778385386 9 4b12a98dc01c91717148343af166cb62 ""
+  "/home/zane/Documents/Website/al-folio/_bibliography/papers.bib" 1783003430 498 f4e7c9ffed1d0f04fa62368379e4f682 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1773947301 1405649 71f29abd4458bd9ecf7cc9ce615a0e49 ""
   "papers.aux" 1778385385 32 3985256e7290058c681f74d7a3565a19 ""
-  "papers.bib" 1778385386 9 4b12a98dc01c91717148343af166cb62 ""
+  "papers.bib" 1783003430 498 f4e7c9ffed1d0f04fa62368379e4f682 ""
   (generated)
   "papers.log"
   "papers.pdf"
