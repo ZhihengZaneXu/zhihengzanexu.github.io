@@ -117,6 +117,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/zane-xu-842365223", "_blank");
         },
       },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/zanexuprivacy.bsky.social", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
