@@ -121,7 +121,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("https://bsky.app/profile/zanexuprivacy.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/zanexu.info", "_blank");
         },
       },{
         id: 'social-scholar',
