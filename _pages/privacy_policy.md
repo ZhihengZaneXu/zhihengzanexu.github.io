@@ -10,7 +10,7 @@ toc:
 
 **Effective date:** 9 September 2026<br>
 **Publisher:** SPUR Lab, New Jersey Institute of Technology<br>
-**Contact:** [spur@njit.edu](mailto:spur@njit.edu)
+**Contact:** [zx4@njit.edu](mailto:spur@njit.edu)
 
 ---
 
@@ -114,4 +114,4 @@ Material changes to this policy will be published at this address with a revised
 
 ## Contact
 
-Questions about this policy or the extension: **spur@njit.edu**
+Questions about this policy or the extension: **zx4@njit.edu**
